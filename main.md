@@ -1,25 +1,48 @@
 title: 渐进式的测试
 speaker: 曾凯
 url: https://github.com/Riokai
-transition: glue
+transition: slide
+files: /css/style.css
 theme: moon
 
 [slide]
 # 《渐进式的测试》
-<!-- ## 这可能是迄今为止最好的网页版演示库 -->
 
-<small style="top: 100px">信息平台-曾凯</small>
-
-[slide]
-## 追求高代码覆盖率
-----
-* 基于GFM的markdown语法编写 {:&.rollIn}
-* 支持html混排，再复杂的demo也可以做！
-* 导出网页或者pdf更容易分享
+<small class="speaker">信息平台-曾凯</small>
 
 [slide]
-## 完全拒绝写测试
+# 源起
+
+## How deep are your unit tests?
+
+[slide]
+* 追求高代码覆盖率
+* 完全不写测试
+* 渐进式的测试
+
+[slide]
+
+## 为什么不应该追求高代码覆盖率
 ----
-* 基于GFM的markdown语法编写 {:&.rollIn}
-* 支持html混排，再复杂的demo也可以做！
-* 导出网页或者pdf更容易分享
+* life is short，code is long {:&.rollIn}
+* 现实项目都是有开发周期
+
+![Picture](/img/cover.png)
+
+[slide]
+## 为什么应该写测试
+----
+* 传统测试的好处：提高维护性、代码解耦等 {:&.rollIn}
+* 提高开发效率
+
+[slide]
+
+# 总结
+
+* 对那些有意义的错误做测试 {:&.rollIn}
+* 一眼能看出结果的代码不值得去测试
+* 用好测试能提高开发效率
+
+[slide]
+
+![测试文件路径](/img/cover.png)
