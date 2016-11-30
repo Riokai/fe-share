@@ -8,7 +8,7 @@ theme: moon
 [slide]
 # 《渐进式的测试》
 
-<small class="speaker">信息平台-曾凯</small>
+<small class="speaker">饿了么-信息平台-曾凯</small>
 
 [slide]
 # 源起
@@ -31,9 +31,28 @@ theme: moon
 
 [slide]
 ## 为什么应该写测试
-----
-* 传统测试的好处：提高维护性、代码解耦等 {:&.rollIn}
-* 提高开发效率
+
+### 传统测试的好处
+
+* 提高维护性 {:&.rollIn}
+* 代码解耦
+* 减少bug
+* ...
+
+[slide]
+
+### 维护并不一定是自己
+
+![Picture](/img/doge.png)
+
+[slide]
+
+# 测试可以提高开发速度
+
+[slide]
+
+# Show Time
+
 
 [slide]
 
@@ -44,5 +63,3 @@ theme: moon
 * 用好测试能提高开发效率
 
 [slide]
-
-![测试文件路径](/img/cover.png)
