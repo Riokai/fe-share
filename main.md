@@ -6,9 +6,9 @@ files: /css/style.css
 theme: moon
 
 [slide]
-# 《渐进式的测试》
+#《渐进式的测试》
 
-<small class="speaker">饿了么-信息平台-曾凯</small>
+<small class="speaker">饿了么-曾凯</small>
 
 [slide]
 # 源起
@@ -41,6 +41,10 @@ theme: moon
 
 [slide]
 
+#### 但是...
+
+[slide]
+
 ### 维护并不一定是自己
 
 ![Picture](/img/doge.png)
@@ -52,7 +56,6 @@ theme: moon
 [slide]
 
 # Show Time
-
 
 [slide]
 
